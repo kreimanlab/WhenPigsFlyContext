@@ -1,0 +1,5 @@
+/media/mengmi/KLAB15/Mengmi/Proj_context3/VirtualHome/unity/stimulus_anomaly/apartment_2/img_411_prefab_PRE_PRO_Washing_liquid_all_modified_cam_3.png
+/media/mengmi/KLAB15/Mengmi/Proj_context3/VirtualHome/unity/stimulus_anomaly/apartment_2/img_411_prefab_FMGP_PRE_Lime_1024_all_modified_cam_8.png
+/media/mengmi/KLAB15/Mengmi/Proj_context3/VirtualHome/unity/stimulus_anomaly/apartment_2/img_411_prefab_FMGP_PRE_Lime_1024_all_modified_cam_7.png
+/media/mengmi/KLAB15/Mengmi/Proj_context3/VirtualHome/unity/stimulus_anomaly/apartment_2/img_411_prefab_Towel1_all_modified_cam_1.png
+/media/mengmi/KLAB15/Mengmi/Proj_context3/VirtualHome/unity/stimulus_anomaly/apartment_2/img_411_prefab_Towel1_all_modified_cam_5.png

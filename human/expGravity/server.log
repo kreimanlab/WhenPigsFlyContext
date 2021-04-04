@@ -1,0 +1,389 @@
+2021-01-11 00:48:47,251 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3NS0A6KXC5TDZ6KMVC8W6GFAJ5YGZG'], 'workerId': [u'A1O57XVTTB1PNZ'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 00:52:21 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5541)
+[2021-01-11 00:52:52 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5539)
+2021-01-11 00:54:40,776 already_started_exp (1008) {'assignmentId': [u'3X65QVEQI18GD5NDEPL48AJX64YCLJ'], 'workerId': [u'APU8QVDVUZB3Y'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+2021-01-11 00:57:50,794 already_started_exp (1008) {'assignmentId': [u'3TEM0PF1Q6IDL145PSUWUW9RO6ZD0B'], 'workerId': [u'A2H557RQ3T3LPX'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 00:58:21 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5603)
+[2021-01-11 00:59:57 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5651)
+[2021-01-11 01:00:24 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5540)
+[2021-01-11 01:00:28 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5653)
+2021-01-11 01:00:57,054 already_started_exp (1008) {'assignmentId': [u'3U5JL4WY5LU8IVRNZTIA062WL0R4XK'], 'workerId': [u'A3211VPCMNHVL5'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 01:01:10 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5655)
+2021-01-11 01:01:40,295 already_started_exp (1008) {'assignmentId': [u'3NS0A6KXC5TDZ6KMVC8W6GFAJ5YGZG'], 'workerId': [u'A1O57XVTTB1PNZ'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 01:02:47 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5617)
+[2021-01-11 01:03:23 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5659)
+[2021-01-11 01:04:35 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5674)
+[2021-01-11 01:13:54 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5657)
+[2021-01-11 01:15:01 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5676)
+[2021-01-11 01:15:02 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5678)
+[2021-01-11 01:15:04 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5661)
+[2021-01-11 01:15:33 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5683)
+[2021-01-11 01:16:55 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5687)
+[2021-01-11 01:16:56 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5685)
+2021-01-11 01:17:33,616 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3PB5A5BD0WRUFWEGCHGDFWMB9CM7GG'], 'workerId': [u'A1DGISBJN0D3VG'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 01:18:03 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5681)
+[2021-01-11 01:18:03 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5689)
+[2021-01-11 01:18:03 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5691)
+2021-01-11 01:21:14,371 already_started_exp (1008) {'assignmentId': [u'3M68NM076IS20M9P9I5X8M0MGAD6RC'], 'workerId': [u'AHTIGV6OOXMAK'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 01:22:30 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5697)
+[2021-01-11 01:26:35 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5706)
+2021-01-11 01:29:14,076 already_started_exp (1008) {'assignmentId': [u'3O7L7BFSHFATK2ZLPDUM6IR8ACIEI1'], 'workerId': [u'A2IFP1BH4JU926'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+2021-01-11 01:29:14,388 already_started_exp (1008) {'assignmentId': [u'3O7L7BFSHFATK2ZLPDUM6IR8ACIEI1'], 'workerId': [u'A2IFP1BH4JU926'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 01:31:44 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5696)
+[2021-01-11 01:31:44 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5698)
+2021-01-11 01:31:55,112 already_started_exp (1008) {'assignmentId': [u'3PXX5PX6LYJG7H433Y0JOCX4U70ABT'], 'workerId': [u'A1JM5XNB4NCZR6'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 01:32:35 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5713)
+[2021-01-11 01:32:46 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5791)
+[2021-01-11 01:32:48 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5790)
+[2021-01-11 01:33:36 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5794)
+[2021-01-11 01:33:36 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5798)
+[2021-01-11 01:34:08 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5800)
+[2021-01-11 01:34:08 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5796)
+[2021-01-11 01:34:40 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5805)
+[2021-01-11 01:34:56 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5801)
+[2021-01-11 01:35:35 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5804)
+[2021-01-11 01:35:42 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5808)
+[2021-01-11 01:36:36 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5812)
+[2021-01-11 01:36:36 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5814)
+[2021-01-11 01:36:39 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5810)
+[2021-01-11 01:39:50 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5828)
+[2021-01-11 01:42:08 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5825)
+[2021-01-11 01:43:19 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5841)
+2021-01-11 01:43:37,202 already_started_exp (1008) {'assignmentId': [u'3VW04L3ZLURZGXFXJ4KFXHZUEVXXXT'], 'workerId': [u'A397HP5TSIF2LO'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 01:44:07 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5824)
+[2021-01-11 01:44:39 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5863)
+2021-01-11 01:44:39,660 already_started_exp (1008) {'assignmentId': [u'3VW04L3ZLURZGXFXJ4KFXHZUEVXXXT'], 'workerId': [u'A397HP5TSIF2LO'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 01:44:47 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5851)
+[2021-01-11 01:48:55 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5867)
+[2021-01-11 01:49:25 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5865)
+[2021-01-11 01:49:59 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5839)
+[2021-01-11 01:50:38 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5873)
+[2021-01-11 01:52:00 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5875)
+[2021-01-11 01:52:00 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5871)
+[2021-01-11 01:53:00 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5879)
+[2021-01-11 01:53:00 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5869)
+[2021-01-11 01:53:59 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5895)
+[2021-01-11 01:53:59 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5880)
+2021-01-11 01:57:13,996 already_started_exp (1008) {'assignmentId': [u'3X0H8UUIT29CVGO8FPI6WQ4VQEPWSR'], 'workerId': [u'A3BN5OJ3VKA6US'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 01:57:44 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5899)
+[2021-01-11 01:58:56 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5894)
+2021-01-11 01:59:15,057 already_started_exp (1008) {'assignmentId': [u'34T446B1C1Z3G9YRPWZLAQR936NC0A'], 'workerId': [u'A3V2XCDF45VN9X'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+2021-01-11 01:59:33,507 already_started_exp (1008) {'assignmentId': [u'34T446B1C1Z3G9YRPWZLAQR936NC0A'], 'workerId': [u'A3V2XCDF45VN9X'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 02:00:41 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5900)
+[2021-01-11 02:01:17 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5907)
+[2021-01-11 02:01:17 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5903)
+[2021-01-11 02:02:17 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5905)
+[2021-01-11 02:02:17 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5910)
+[2021-01-11 02:03:18 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5913)
+[2021-01-11 02:03:34 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5914)
+[2021-01-11 02:04:19 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5917)
+[2021-01-11 02:04:31 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5919)
+[2021-01-11 02:04:50 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5909)
+[2021-01-11 02:07:33 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5921)
+[2021-01-11 02:08:28 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5923)
+2021-01-11 02:08:46,212 already_started_exp (1008) {'assignmentId': [u'3BV8HQ2ZZXMA15N877JBDWBCG6QA69'], 'workerId': [u'A2V2FSHSCXDVHO'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 02:10:42 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5925)
+[2021-01-11 02:10:42 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5929)
+[2021-01-11 02:12:08 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5927)
+2021-01-11 02:16:41,276 already_started_exp (1008) {'assignmentId': [u'3IAS3U3I0G1R2E9ZQJ74IUE6IJ92BF'], 'workerId': [u'A3LXERMGSXIFXC'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+2021-01-11 02:16:53,696 already_started_exp (1008) {'assignmentId': [u'3IAS3U3I0G1R2E9ZQJ74IUE6IJ92BF'], 'workerId': [u'A3LXERMGSXIFXC'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 02:22:02 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5937)
+2021-01-11 02:22:28,634 Exception on /exp [GET]
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/flask/app.py", line 2317, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/flask/app.py", line 1840, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/flask/app.py", line 1743, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/flask/app.py", line 1838, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/flask/app.py", line 1824, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/psiturk/user_utils.py", line 23, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/psiturk/experiment.py", line 454, in start_exp
+    db_session.commit()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/scoping.py", line 163, in do
+    return getattr(self.registry(), name)(*args, **kwargs)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/session.py", line 1046, in commit
+    self.transaction.commit()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/session.py", line 504, in commit
+    self._prepare_impl()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/session.py", line 483, in _prepare_impl
+    self.session.flush()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/persistence.py", line 1083, in _emit_insert_statements
+    c = cached_connections[connection].execute(statement, multiparams)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/engine/default.py", line 609, in do_execute
+    cursor.execute(statement, parameters)
+IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: expGravity.uniqueid
+[SQL: INSERT INTO "expGravity" (uniqueid, assignmentid, workerid, hitid, ipaddress, browser, platform, language, cond, counterbalance, codeversion, beginhit, beginexp, endhit, bonus, status, mode, datastring) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('A16C74YXV9MYNE:3Y54SXRO1M60ICCI9P8VO7FK7HTUTG', u'3Y54SXRO1M60ICCI9P8VO7FK7HTUTG', u'A16C74YXV9MYNE', u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW', '172.75.237.32', 'chrome', 'windows', 'UNKNOWN', 0, 86, '1.0', '2021-01-11 02:22:28.620935', None, None, 0.0, 1, u'live', None)]
+(Background on this error at: http://sqlalche.me/e/13/gkpj)
+[2021-01-11 02:26:49 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5933)
+2021-01-11 02:29:12,872 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3QY5DC2MXS5QZ7UHE536730JG8LFUT'], 'workerId': [u'A2W7Z10Z5YLLF4'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 02:30:55 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6084)
+[2021-01-11 02:37:51 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:5934)
+[2021-01-11 02:38:21 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6086)
+[2021-01-11 02:39:46 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6159)
+2021-01-11 02:40:15,275 already_started_exp (1008) {'assignmentId': [u'3R0T90IZ1TX0RD9C3YOOVIEPANEGCJ'], 'workerId': [u'A3OJCVQIA4CPMX'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+2021-01-11 02:40:23,431 already_started_exp (1008) {'assignmentId': [u'3R0T90IZ1TX0RD9C3YOOVIEPANEGCJ'], 'workerId': [u'A3OJCVQIA4CPMX'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 02:40:54 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6161)
+2021-01-11 02:43:31,038 already_started_exp (1008) {'assignmentId': [u'3QBD8R3Z224LOMDVY2VEHTB39WOO41'], 'workerId': [u'A2ZPSPA0R8KSL8'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 02:58:10 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6163)
+[2021-01-11 02:58:10 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6137)
+[2021-01-11 02:59:10 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6165)
+[2021-01-11 02:59:10 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6250)
+[2021-01-11 03:00:10 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6254)
+[2021-01-11 03:00:10 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6255)
+[2021-01-11 03:04:57 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6258)
+2021-01-11 03:05:04,098 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3S3AMIZX3VQXFTZL18NGPXBSXVZCD6'], 'workerId': [u'AIXHQA7Q5PISQ'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 03:05:34 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6259)
+[2021-01-11 03:07:10 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6251)
+[2021-01-11 03:10:11 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6264)
+[2021-01-11 03:10:14 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6270)
+[2021-01-11 03:10:33 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6268)
+2021-01-11 03:10:55,116 already_started_exp (1008) {'assignmentId': [u'338JKRMM27KQYU7P3QAFAN02PK7AHB'], 'workerId': [u'AHZW9LTL074XB'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 03:11:05 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6289)
+[2021-01-11 03:11:29 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6285)
+[2021-01-11 03:14:53 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6291)
+[2021-01-11 03:16:08 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6293)
+[2021-01-11 03:16:09 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6287)
+[2021-01-11 03:16:18 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6299)
+[2021-01-11 03:17:22 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6306)
+[2021-01-11 03:24:02 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6304)
+[2021-01-11 03:24:38 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6323)
+[2021-01-11 03:30:25 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6308)
+[2021-01-11 03:31:07 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6315)
+[2021-01-11 03:32:32 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6371)
+[2021-01-11 03:32:50 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6325)
+[2021-01-11 03:32:50 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6395)
+[2021-01-11 03:33:03 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6403)
+[2021-01-11 03:33:22 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6405)
+[2021-01-11 03:33:22 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6406)
+[2021-01-11 03:34:00 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6409)
+[2021-01-11 03:36:17 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6416)
+[2021-01-11 03:36:52 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6422)
+[2021-01-11 03:39:02 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6412)
+[2021-01-11 03:39:33 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6437)
+[2021-01-11 03:42:10 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6424)
+[2021-01-11 03:43:05 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6439)
+[2021-01-11 03:44:36 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6411)
+[2021-01-11 03:46:13 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6443)
+[2021-01-11 03:46:13 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6441)
+[2021-01-11 03:46:19 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6445)
+[2021-01-11 03:48:40 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6447)
+[2021-01-11 03:50:15 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6459)
+[2021-01-11 03:56:38 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6448)
+[2021-01-11 04:02:30 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6473)
+[2021-01-11 04:11:57 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6481)
+[2021-01-11 04:11:57 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6461)
+[2021-01-11 04:14:09 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6500)
+[2021-01-11 04:14:43 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6451)
+[2021-01-11 04:14:43 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6501)
+[2021-01-11 04:15:25 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6506)
+[2021-01-11 04:15:44 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6504)
+[2021-01-11 04:15:56 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6510)
+[2021-01-11 04:16:58 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6516)
+[2021-01-11 04:17:44 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6512)
+[2021-01-11 04:17:44 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6518)
+[2021-01-11 04:20:30 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6507)
+[2021-01-11 04:24:48 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6524)
+[2021-01-11 04:27:19 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6591)
+[2021-01-11 04:27:56 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6604)
+[2021-01-11 04:29:16 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6523)
+[2021-01-11 04:29:16 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6606)
+[2021-01-11 04:30:16 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6608)
+[2021-01-11 04:30:16 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6609)
+[2021-01-11 04:31:06 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6612)
+[2021-01-11 04:31:06 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6613)
+[2021-01-11 04:32:06 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6583)
+[2021-01-11 04:32:06 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6617)
+[2021-01-11 04:33:03 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6616)
+[2021-01-11 04:33:03 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6620)
+[2021-01-11 04:34:03 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6625)
+[2021-01-11 04:34:03 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6621)
+[2021-01-11 04:43:54 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6624)
+[2021-01-11 04:43:54 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6628)
+[2021-01-11 04:44:26 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6700)
+[2021-01-11 04:49:26 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6704)
+[2021-01-11 04:54:23 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6629)
+[2021-01-11 04:54:23 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6701)
+2021-01-11 04:56:29,318 already_started_exp (1008) {'assignmentId': [u'3LYA37P8IR8MJUDPFPD8IQ00ZK9BKQ'], 'workerId': [u'A14A5PT5LISHA3'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 05:08:28 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6720)
+[2021-01-11 05:08:28 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6719)
+[2021-01-11 05:09:31 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6706)
+[2021-01-11 05:12:04 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6736)
+[2021-01-11 05:12:19 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6727)
+[2021-01-11 05:12:23 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6728)
+[2021-01-11 05:14:39 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6742)
+[2021-01-11 05:29:53 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6744)
+[2021-01-11 05:29:53 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6769)
+[2021-01-11 05:30:36 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6746)
+[2021-01-11 05:32:00 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6833)
+[2021-01-11 05:49:48 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6826)
+[2021-01-11 06:03:32 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6825)
+[2021-01-11 06:05:22 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6935)
+[2021-01-11 06:06:02 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6925)
+[2021-01-11 06:06:33 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6837)
+[2021-01-11 06:06:33 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6939)
+[2021-01-11 06:06:55 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6937)
+[2021-01-11 06:18:25 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6945)
+[2021-01-11 06:18:39 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6941)
+[2021-01-11 06:18:53 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6942)
+2021-01-11 06:32:49,270 already_started_exp (1008) {'assignmentId': [u'35BLDD71I7IWH3AHK77I6HIK6L6ZVA'], 'workerId': [u'A1H7XQCN2TQJM7'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 06:47:52 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6963)
+[2021-01-11 07:11:31 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6961)
+[2021-01-11 07:12:14 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:6965)
+[2021-01-11 07:12:14 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:7391)
+[2021-01-11 07:13:12 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:7559)
+[2021-01-11 07:13:40 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:7560)
+[2021-01-11 07:13:43 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:7525)
+[2021-01-11 07:14:14 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:7597)
+[2021-01-11 07:15:15 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:7587)
+[2021-01-11 07:15:15 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:7599)
+[2021-01-11 07:16:06 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:7628)
+[2021-01-11 08:18:44 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:7609)
+[2021-01-11 08:18:44 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:7627)
+[2021-01-11 08:25:28 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:8400)
+[2021-01-11 08:26:48 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:8550)
+[2021-01-11 08:31:08 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:8401)
+[2021-01-11 08:31:11 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:7645)
+[2021-01-11 08:31:50 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:8704)
+[2021-01-11 12:45:58 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:8738)
+2021-01-11 12:46:57,513 Exception on /exp [GET]
+Traceback (most recent call last):
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/flask/app.py", line 2317, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/flask/app.py", line 1840, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/flask/app.py", line 1743, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/flask/app.py", line 1838, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/flask/app.py", line 1824, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/psiturk/user_utils.py", line 23, in new_func
+    resp = make_response(func(*args, **kwargs))
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/psiturk/experiment.py", line 454, in start_exp
+    db_session.commit()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/scoping.py", line 163, in do
+    return getattr(self.registry(), name)(*args, **kwargs)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/session.py", line 1046, in commit
+    self.transaction.commit()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/session.py", line 504, in commit
+    self._prepare_impl()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/session.py", line 483, in _prepare_impl
+    self.session.flush()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/session.py", line 2540, in flush
+    self._flush(objects)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/session.py", line 2682, in _flush
+    transaction.rollback(_capture_exception=True)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/util/langhelpers.py", line 70, in __exit__
+    with_traceback=exc_tb,
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/session.py", line 2642, in _flush
+    flush_context.execute()
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/unitofwork.py", line 422, in execute
+    rec.execute(self)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/unitofwork.py", line 589, in execute
+    uow,
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/persistence.py", line 245, in save_obj
+    insert,
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/orm/persistence.py", line 1083, in _emit_insert_statements
+    c = cached_connections[connection].execute(statement, multiparams)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 1011, in execute
+    return meth(self, multiparams, params)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/sql/elements.py", line 298, in _execute_on_connection
+    return connection._execute_clauseelement(self, multiparams, params)
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 1130, in _execute_clauseelement
+    distilled_params,
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 1317, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 1511, in _handle_dbapi_exception
+    sqlalchemy_exception, with_traceback=exc_info[2], from_=e
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/engine/base.py", line 1277, in _execute_context
+    cursor, statement, parameters, context
+  File "/home/ubuntu/anaconda3/envs/envname/lib/python2.7/site-packages/sqlalchemy/engine/default.py", line 609, in do_execute
+    cursor.execute(statement, parameters)
+IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: expGravity.uniqueid
+[SQL: INSERT INTO "expGravity" (uniqueid, assignmentid, workerid, hitid, ipaddress, browser, platform, language, cond, counterbalance, codeversion, beginhit, beginexp, endhit, bonus, status, mode, datastring) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('A12TFFS6M9TOVF:39K0FND3AI0CQ880UNQS2S8Y68ZMAT', u'39K0FND3AI0CQ880UNQS2S8Y68ZMAT', u'A12TFFS6M9TOVF', u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW', '216.41.135.71', 'chrome', 'windows', 'UNKNOWN', 0, 240, '1.0', '2021-01-11 12:46:57.511524', None, None, 0.0, 1, u'live', None)]
+(Background on this error at: http://sqlalche.me/e/13/gkpj)
+2021-01-11 12:47:31,729 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'3RWE2M8QWIVM7DVIEM8ZQ1LL2CXN03'], 'workerId': [u'A3G6PURCIIY2VQ'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 12:50:04 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10083)
+[2021-01-11 12:50:04 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:8580)
+2021-01-11 12:52:29,082 already_started_exp (1008) {'assignmentId': [u'3FQ5JJ512M9OK32MIFIH9L0UG87KN6'], 'workerId': [u'A2S83QLYR15UH6'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 12:52:59 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:8708)
+2021-01-11 12:54:17,103 already_started_exp (1008) {'assignmentId': [u'3FQ5JJ512M9OK32MIFIH9L0UG87KN6'], 'workerId': [u'A2S83QLYR15UH6'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 12:56:56 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10087)
+[2021-01-11 12:57:06 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10088)
+[2021-01-11 12:57:49 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10097)
+[2021-01-11 13:04:24 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10114)
+[2021-01-11 13:06:57 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10099)
+[2021-01-11 13:07:15 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10182)
+[2021-01-11 13:07:53 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10093)
+[2021-01-11 13:13:10 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10190)
+[2021-01-11 13:15:34 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10186)
+[2021-01-11 13:21:26 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10188)
+[2021-01-11 13:24:13 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10202)
+[2021-01-11 13:25:42 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10220)
+[2021-01-11 13:49:22 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10222)
+[2021-01-11 13:50:03 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10296)
+2021-01-11 13:57:10,769 already_started_exp (1008) {'assignmentId': [u'3KV0LJBBH364PPUHWYCEXIX86A2RMH'], 'workerId': [u'A1JPUM7KH3020K'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 13:58:56 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10192)
+[2021-01-11 14:06:08 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10309)
+[2021-01-11 14:12:53 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10236)
+[2021-01-11 14:32:30 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10318)
+[2021-01-11 14:36:05 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10320)
+2021-01-11 14:57:43,525 already_started_exp (1008) {'assignmentId': [u'3QAPZX2QN5YQIR6PS3AFYDINRHF200'], 'workerId': [u'A18NYAK5GTG15H'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+2021-01-11 14:58:10,329 already_started_exp (1008) {'assignmentId': [u'3QAPZX2QN5YQIR6PS3AFYDINRHF200'], 'workerId': [u'A18NYAK5GTG15H'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+2021-01-11 15:15:46,989 already_started_exp (1008) {'assignmentId': [u'3YW4XOSQKR6Z9S0976OLI1WPF06U1F'], 'workerId': [u'A1TEXCUTI4IUUN'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 15:16:17 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10542)
+[2021-01-11 15:16:18 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10326)
+[2021-01-11 15:26:29 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10546)
+[2021-01-11 15:30:32 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10675)
+[2021-01-11 15:55:40 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10692)
+[2021-01-11 15:59:11 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10700)
+[2021-01-11 16:11:32 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10769)
+[2021-01-11 16:19:56 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10928)
+[2021-01-11 16:46:32 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10761)
+[2021-01-11 18:29:10 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10947)
+2021-01-11 20:20:52,944 already_started_exp (1008) {'assignmentId': [u'3H7XDTSHKDC95BFHKPOP7CLS26DWGV'], 'workerId': [u'A1C7JU0JCT5SR7'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+2021-01-11 21:50:12,149 already_started_exp (1008) {'assignmentId': [u'3YMTUJH0DT111EI3UJHDB3HQ84FT42'], 'workerId': [u'A3W341JMZSKATX'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+2021-01-11 21:50:31,080 already_started_exp (1008) {'assignmentId': [u'3YMTUJH0DT111EI3UJHDB3HQ84FT42'], 'workerId': [u'A3W341JMZSKATX'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-11 22:41:14 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10673)
+[2021-01-11 22:57:26 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:11339)
+[2021-01-11 23:18:41 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:10984)
+[2021-01-11 23:18:53 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:12177)
+2021-01-12 00:14:37,432 already_started_exp (1008) {'assignmentId': [u'3Y54SXRO1M60ICCI9P8VO7FK8N3UT3'], 'workerId': [u'A21ZK49H9LSSRY'], 'hitId': [u'3S1L4CQSFXQ4XEIQIYHEIJSXO3NAFW'], 'mode': [u'live']}
+[2021-01-12 00:22:47 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:12267)
+[2021-01-12 03:41:40 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:12648)
+[2021-01-12 03:44:00 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:12419)
+[2021-01-12 03:47:27 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:12421)
+[2021-01-12 03:47:27 +0000] [5535] [CRITICAL] WORKER TIMEOUT (pid:13819)

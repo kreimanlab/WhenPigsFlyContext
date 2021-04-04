@@ -1,0 +1,48 @@
+[HIT Configuration]
+title = Image tagging - gravity
+description = Use one word to describe the objects on series of images.
+amt_keywords = image, tagging, captioning, psychology
+lifetime = 72
+us_only = true
+approve_requirement = 98
+number_hits_approved = 100
+require_master_workers = false
+contact_email_on_error = a0091624@gmail.com
+ad_group = Image tagging
+psiturk_keywords = context, gif tagging
+organization_name = Boston Children's Hopstial, Harvard Medical School
+browser_exclude_rule = MSIE, mobile, tablet
+allow_repeats = false
+
+[Database Parameters]
+database_url = sqlite:///expGravity.db
+table_name = expGravity
+
+[Server Parameters]
+host = 0.0.0.0
+port = 22362
+cutoff_time = 60
+logfile = server.log
+loglevel = 2
+debug = true
+login_username = mengmi	
+login_pw = mengmi
+threads = auto
+secret_key = 'this is my secret key which is hard to guess, i should change this'
+#certfile = <path_to.crt> 
+#keyfile = <path_to.key>
+
+[Task Parameters]
+experiment_code_version = 1.0
+num_conds = 1
+num_counters = 800
+
+[Shell Parameters]
+launch_in_sandbox_mode = true
+
+# If you are not using the psiturk ad server, set `use_psiturk_ad_server` to `false` and point `ad_location` to your proxy server <host> and <port>. Format the ad_location like this:
+#
+#   https://<host>:<port>/ad 
+
+use_psiturk_ad_server = true
+ad_location = false

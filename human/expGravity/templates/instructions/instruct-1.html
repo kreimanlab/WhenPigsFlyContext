@@ -1,0 +1,73 @@
+<div id="container-instructions">
+
+	<h1>Instructions - Image Taggging Task</h1>
+
+	<hr />
+
+	<div class="instructions well">
+
+	    <p>
+		    Use ONLY one word to describe what is in the bounding box on the image. The image is in GIF format (a quick flash of series of image frames).
+
+            <br>
+            In each GIF image, there are three phases:
+
+            <br>
+            Phase 1:
+            You will first see a fixation cross followed by a quick flash of the bounding box with a fixation cross in the center of the bounding box. Pay attention to the bounding box location.
+
+            <br>
+            Phase 2:
+            You will see the real image with the region of interest in bounding box. The region of interest will be in the same location as the bounding box shown in Phase 1.
+
+            <br>
+            Phase 3:
+            After the real image is presented, a blank grey background is presented.
+
+            <br>
+            Phase 4:
+            Try your best to recognize what the object is in the region of interest in the bounding box on the real image as described in Phase 2. Type in your response in the text box. It must be ONLY ONE word, a noun. Please make your best guess. Try not to say things like "I don't know". After this, click "SUBMIT" to go to the next image. 
+
+            
+
+        </p>
+
+    <p>
+    <STRONG>NOTE1: Below is one sample GIF image. For illustration purpose, the sample animated image repeats playing. In real experiments, the animated images will ONLY be played ONCE. Therefore, you must pay attention to the image during the experiment. In this example, the correct answer is "apple" and is indicated in the text box. </STRONG>
+    </p>
+
+    <p>
+    <STRONG>NOTE2: Make sure you are typing in one word. The word must be a noun. The word must be in singualr form NOT plural form. The word must NOT have spaces or special characters. Violations of these rules will result in NO pay for that image.</STRONG>
+    </p>
+
+
+	    <script type="text/javascript">
+	    //console.log(psiTurk.getInstructionIndicator())
+	    </script>
+
+	</div>
+    <br>
+
+    <div class="row">
+        <div class="column">          
+            <img class="center-block" src="static/images/gif_1_1_1_3_gravity.gif" alt="stimuli" style="width:45%"/>
+        </div>    
+       
+     </div>          
+    
+
+    <center>Type ONLY one word:</center>
+
+    <center> <input id="tag1" name="tag1" placeholder="apple" required="" size="30" type="text" /></center>
+
+
+    <div class="instructionsnav">
+        <button type="button" id="next" value="next" class="btn btn-primary btn-lg pull-right continue">
+                Next <span class="glyphicon glyphicon-arrow-right"></span>
+        </button>
+    </div>
+
+
+	<hr />
+
+</div>

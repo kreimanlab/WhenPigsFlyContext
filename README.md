@@ -6,8 +6,8 @@
   <a href="#about">About</a> •
   <a href="#crtnet-model">CRTNet Model</a> •
   <a href="#code-architecture">Code Architecture</a> •
-  <a href="#OCD-dataset">Datasets</a> •
-  <a href="#mturk-exp">Mturk Experiments</a> •
+  <a href="#datasets">Datasets</a> •
+  <a href="#mturk-experiments">Mturk Experiments</a> •
   <a href="#citation">Citation</a>
 </div>
 

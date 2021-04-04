@@ -7,7 +7,7 @@
   <a href="#crtnet-model">CRTNet Model</a> •
   <a href="#code-architecture">Code Architecture</a> •
   <a href="#OCD-dataset">Datasets</a> •
-  <a href="#mturk-exp">Mturk</a> •
+  <a href="#mturk-exp">Mturk Experiments</a> •
   <a href="#citation">Citation</a>
 </div>
 
@@ -76,6 +76,12 @@ Test a trained model on a dataset with the given annotations and images.
 python test.py --checkpoint output/checkpoint_1.tar --config output/config.yaml
 --annotations testset/annotations.json --imagedir testset/images --weighted_prediction
 ```
+
+## Datasets
+
+
+## Mturk Experiments
+
 
 ## Citation
 

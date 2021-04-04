@@ -8,6 +8,7 @@
   <a href="#code-architecture">Code Architecture</a> •
   <a href="#datasets">Datasets</a> •
   <a href="#mturk-experiments">Mturk Experiments</a> •
+  <a href="#citation">Citation</a> •
   <a href="#notes">Notes</a> •
   <a href="#license">License</a> •
 </div>
@@ -205,6 +206,9 @@ To plot results in the paper, run the following scripts:
 
 Copy the downloaded source codes to EC2 server and run the psiturk experiment online. Refer to [HERE](https://drive.google.com/open?id=1FblDG7OuWXVRfWo0Djb5eDiYgKqnk9wU) for detailed instruction.
 
+
+## Citation
+> to do
 
 ## Notes
 

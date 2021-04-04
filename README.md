@@ -98,7 +98,7 @@ Our OCD dataset is developed based on VirtualHome simulation environment. Downlo
 
 If one wants to directly run the Virtualhome environment with our pre-defined out-of-context conditions to generate our OCD dataset, it is NOT necessary to download and install Unity. Directly download the pre-compiled Unity executable file from [HERE](https://drive.google.com/file/d/1zMondbrWKHglwbxG7WinLnP0FK2JsHh2/view?usp=sharing). It runs on Linux 64-bit platform (such as Ubuntu18.04). Make sure to double click this executable ```linux/MMVHU.x86_64```, and it is running. 
 
-MAC OSX version can be downloaded [HERE]() and Windows version can be downloaded [HERE](). 
+MAC OSX version can be downloaded [HERE](https://drive.google.com/file/d/1Bp-R9OTIJRMQ9miMl6hvmG7ooGKEBoIR/view?usp=sharing) and Windows version can be downloaded [HERE](https://drive.google.com/file/d/1MV2oLrUfDSTYKcpS_rUw-PMdN8Olx-Qs/view?usp=sharing). 
 
 Copy all the files in ```unity``` folder in the current repository to ```virtualhome/demo/``` folder in the downloaded python github repository [HERE](https://github.com/xavierpuigf/virtualhome).
 
@@ -136,13 +136,13 @@ jasondirname = 'jason_gravity'
 ```
 You can skip all the steps above, if you want to directly use the images from our dataset without any modifications.
 Download links for the dataset:
- - Normal: raw images[HERE]()
- - Gravity raw images[HERE]()
- - Size raw images[HERE]()
- - Co-occurrence raw images[HERE]()
- - G+C raw images[HERE]()
- - NoContext raw images[HERE]()
- - Training images from VirtualHome raw images[HERE]() 
+ - Normal: raw images[HERE](https://www.dropbox.com/sh/2he6a884v56tml3/AACS-74urq7lAuocE_5yHDTZa?dl=0)
+ - Gravity raw images[HERE](https://www.dropbox.com/sh/3spivxx6c5hhn98/AADcUMhQBNGEmCOiZhLgp4JQa?dl=0)
+ - Size raw images[HERE](https://www.dropbox.com/sh/5yv31zw7631peod/AABxyiltxs8XYwvBGEtGIbBHa?dl=0)
+ - Co-occurrence raw images[HERE](https://www.dropbox.com/sh/mza2njlqtc1ttqv/AABT-Ju9tSkCI0zLIPQOwffca?dl=0)
+ - G+C raw images (naming convention with _wall) [HERE](https://www.dropbox.com/sh/mza2njlqtc1ttqv/AABT-Ju9tSkCI0zLIPQOwffca?dl=0)
+ - NoContext raw images (naming convention with _seg) [HERE](https://www.dropbox.com/sh/2he6a884v56tml3/AACS-74urq7lAuocE_5yHDTZa?dl=0)
+ - Training images from VirtualHome raw images[HERE](https://www.dropbox.com/sh/dite90lv0s0kkr1/AAB9xz2oX1s7AqddxkUvdn-Ua?dl=0) and [HERE](https://www.dropbox.com/sh/0w8zu80erw61i5i/AABVkfe4FwZqRDeoGQqCCplYa?dl=0)
  - Jason files [HERE]() For each image in the conditions above, there exists a corresponding jason file storing the target object classname, class-id, apartment-id, room-id, surface-id, the bounding box (left, right, bottom, top coordinate wrt (1024, 1280) image size). 
 
 **NOTE** NOT all images are used for testing. Within each condition, we manually filtered and selected the good quality images for human and model testing. The ```human/Mat/VHhumanStats_*.mat``` stores the SELECTED test images. The raw filtered image lists for each dataset is in ```human/filtered/```. For example, ```filtered_gravity```, ```filtered_gravity_ori```  and ```human/Mat/VHhumanStats_gravity.mat``` are the selected image information for gravity condition. 
@@ -210,3 +210,12 @@ Copy the downloaded source codes to EC2 server and run the psiturk experiment on
 > TODO
 
 The images for the sample dataset in the `debug` folder were generated with VirtualHome (see http://virtual-home.org/).
+
+## Notes
+
+The source code is for illustration purpose only. Path reconfigurations may be needed to run some MATLAB scripts. We do not provide techinical supports but we would be happy to discuss about SCIENCE!
+
+## License
+
+See [Kreiman lab](http://klab.tch.harvard.edu/code/license_agreement.pdf) for license agreements before downloading and using our source codes and datasets.
+

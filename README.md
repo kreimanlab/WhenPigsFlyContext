@@ -8,8 +8,8 @@
   <a href="#code-architecture">Code Architecture</a> •
   <a href="#datasets">Datasets</a> •
   <a href="#mturk-experiments">Mturk Experiments</a> •
-  <a href="#notes">Notes</a>
-  <a href="#license">License</a>
+  <a href="#notes">Notes</a> •
+  <a href="#license">License</a> •
 </div>
 
 

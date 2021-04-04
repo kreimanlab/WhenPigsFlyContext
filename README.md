@@ -145,7 +145,7 @@ Download links for the dataset:
  - G+C raw images (naming convention with _wall) [HERE](https://www.dropbox.com/sh/mza2njlqtc1ttqv/AABT-Ju9tSkCI0zLIPQOwffca?dl=0)
  - NoContext raw images (naming convention with _seg) [HERE](https://www.dropbox.com/sh/2he6a884v56tml3/AACS-74urq7lAuocE_5yHDTZa?dl=0)
  - Training images from VirtualHome raw images[HERE](https://www.dropbox.com/sh/dite90lv0s0kkr1/AAB9xz2oX1s7AqddxkUvdn-Ua?dl=0) and [HERE](https://www.dropbox.com/sh/0w8zu80erw61i5i/AABVkfe4FwZqRDeoGQqCCplYa?dl=0)
- - Jason files [HERE]() For each image in the conditions above, there exists a corresponding jason file storing the target object classname, class-id, apartment-id, room-id, surface-id, the bounding box (left, right, bottom, top coordinate wrt (1024, 1280) image size). 
+ - Jason files [HERE](https://www.dropbox.com/s/80dfiwfpgvn3x6a/jason_.zip?dl=0) For each image in the conditions above, there exists a corresponding jason file storing the target object classname, class-id, apartment-id, room-id, surface-id, the bounding box (left, right, bottom, top coordinate wrt (1024, 1280) image size). 
 
 **NOTE** NOT all images are used for testing. Within each condition, we manually filtered and selected the good quality images for human and model testing. The ```human/Mat/VHhumanStats_*.mat``` stores the SELECTED test images. The raw filtered image lists for each dataset is in ```human/filtered/```. For example, ```filtered_gravity```, ```filtered_gravity_ori```  and ```human/Mat/VHhumanStats_gravity.mat``` are the selected image information for gravity condition. 
 

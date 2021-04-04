@@ -8,7 +8,8 @@
   <a href="#code-architecture">Code Architecture</a> •
   <a href="#datasets">Datasets</a> •
   <a href="#mturk-experiments">Mturk Experiments</a> •
-  <a href="#citation">Citation</a>
+  <a href="#notes">Notes</a>
+  <a href="#license">License</a>
 </div>
 
 
@@ -92,7 +93,7 @@ Existing datasets can be downloaded from [UnRel](https://www.di.ens.fr/willow/re
 
 ### our Out-of-Context Dataset (OCD)
 
-Our OCD dataset is developed based on VirtualHome simulation environment. Download the python github repository [HERE](https://github.com/xavierpuigf/virtualhome) and the original unity repository [HERE](https://github.com/xavierpuigf/virtualhome_unity).
+Our OCD dataset is developed based on [VirtualHome simulation environment](http://virtual-home.org/). Download the python github repository [HERE](https://github.com/xavierpuigf/virtualhome) and the original unity repository [HERE](https://github.com/xavierpuigf/virtualhome_unity).
 
 (Skip this step) If one wants to build Unity Virtualhome environment from scratch,  replace the old ```virtualhome_unity/Assets/Story Generator/Scripts/TestDriver.cs``` in the original unity repository with ```unity/TestDriver.cs``` in the current repository. Re-export Unity executable files. 
 
@@ -195,7 +196,7 @@ It is optional to re-process these .db files. Since all the pre-processed result
 
 To plot results in the paper, run the following scripts:
  - PlotAblationOverall_humanoverlap.m #ablation plots
- - PlotBar_unrel.m #bar plots #for unrel experiment
+ - PlotBar_unrel.m #bar plots for unrel experiment
  - PlotCorrelation_table_cvpr.m #for cut-and-paste dataset
  - PlotModelOverall_humanoverlap.m #models on OCD dataset
  - PlotHumanOverall_modeloverlap.m #human on OCD dataset
@@ -204,12 +205,6 @@ To plot results in the paper, run the following scripts:
 
 Copy the downloaded source codes to EC2 server and run the psiturk experiment online. Refer to [HERE](https://drive.google.com/open?id=1FblDG7OuWXVRfWo0Djb5eDiYgKqnk9wU) for detailed instruction.
 
-
-## Citation
-
-> TODO
-
-The images for the sample dataset in the `debug` folder were generated with VirtualHome (see http://virtual-home.org/).
 
 ## Notes
 

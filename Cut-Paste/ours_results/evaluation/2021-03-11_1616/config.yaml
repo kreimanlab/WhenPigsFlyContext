@@ -1,0 +1,19 @@
+!!python/object:ml_collections.config_dict.config_dict.ConfigDict
+_convert_dict: true
+_fields:
+  annotations: /home/dimitar/train_annotations.json
+  batch_size: 16
+  checkpoint: /home/dimitar/BigPictureNet/output/2021-03-10_2335/checkpoint_08.tar
+  imagedir: /home/mengmi/Projects/Proj_context2/Datasets/MSCOCO/trainColor_oriimg
+  imbalance_reweighting: false
+  learning_rate: 1.0e-05
+  num_classes: 55
+  num_decoder_heads: 8
+  num_decoder_layers: 6
+  test_annotations: /home/dimitar/experiments_I_and_J/annotations/test_annotations_exp_J.json
+  test_imagedir: /home/mengmi/Projects/Proj_context2/Matlab/Stimulus/keyframe_expH
+  uncertainty_gate_type: learned
+  uncertainty_threshold: 1.0
+  weighted_prediction: false
+_locked: false
+_type_safe: true

@@ -208,7 +208,10 @@ Copy the downloaded source codes to EC2 server and run the psiturk experiment on
 
 
 ## Citation
-> to do
+
+When Pigs Fly: Contextual Reasoning in Synthetic and Natural Scenes [Manuscript](https://arxiv.org/abs/2104.02215)
+
+Authors: Philipp Bomatter*, Mengmi Zhang*, Dimitar Karev, Spandan Madan, Claire Tseng, Gabriel Kreiman (* equal contribution)
 
 ## Notes
 

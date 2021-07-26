@@ -20,6 +20,8 @@
 
 ## About
 
+This repository contains an implementation of our paper published in ICCV 2021.
+
 Free access to our manuscript [HERE](https://arxiv.org/pdf/2104.02215.pdf), supplementary material [HERE](https://d2b38104-6cb6-430b-95b9-765197711bda.usrfiles.com/ugd/d2b381_5508f4b62dc14292a150e2f0b6f346ac.pdf)
 
 Conventional object recognition models are designed for images that are focused on a single object. While it is of course always possible to crop a large image to an object of interest, a lot of potentially valuable contextual information is sacrificed in that process. As our experiments show, humans are able to make use of additional context to reason about the object of interest and achieve considerably higher recognition performance.

@@ -175,9 +175,11 @@ Activate the conda environment:
 ```
 conda activate mturkenv
 ```
-Install psiturk using pip:
+Install psiturk using pip.
+
+**Note** Psiturk has upgraded to python3. Please use the following to install psiturk for python2 version (source code on mturk experiments in this repository only works on python2 version):
 ```
-pip install psiturk
+pip install --upgrade psiturk==2.3.12
 ```
 Refer to [HERE](https://drive.google.com/open?id=1FblDG7OuWXVRfWo0Djb5eDiYgKqnk9wU) for detailed instruction on setting up psiturk key and paste them in .psiturkconfig.
 

@@ -156,7 +156,7 @@ Download links for the dataset:
 (not recommended) If one wants to filter images again, use scripts ```unity/filterImages_gravity.ipynb``` and ```human/ProcessFilteredTextFiles_gravity.m``` to re-generate ```human/Mat/VHhumanStats_gravity.mat```.
 
 ## Mturk Experiments
-We conduct Amazon Mechanical Turk experiments using the selected images from above in the OCD datasets. The following gif illustrates how an individual trial looks. Additional examples for all context conditions can be found [HERE](https://drive.google.com/drive/folders/1Z3m-49JDN0qUm8IwfJGqK19mjuFvqwI8).
+We conduct Amazon Mechanical Turk experiments using the selected images from above in the OCD datasets. The following gif illustrates how an individual trial looks. Additional examples for all context conditions can be found in the `human/mturk_examples` folder.
 
 ![mturk_example](doc/mturk_example.gif)
 

@@ -10,7 +10,7 @@
   <a href="#mturk-experiments">Mturk Experiments</a> •
   <a href="#citation">Citation</a> •
   <a href="#notes">Notes</a> •
-  <a href="#license">License</a> •
+  <a href="#license">License</a>
 </div>
 
 
@@ -96,9 +96,9 @@ Download all the folders in ```human``` from [HERE](https://drive.google.com/dri
 ###  Existing datasets
 Existing datasets can be downloaded from [UnRel](https://www.di.ens.fr/willow/research/unrel/), [Cocostuff](https://github.com/nightrome/cocostuff) and [Cut-and-Paste](https://github.com/kreimanlab/Put-In-Context).
 
-### our Out-of-Context Dataset (OCD)
+### Our Out-of-Context Dataset (OCD)
 
-Our OCD dataset is developed based on [VirtualHome simulation environment](http://virtual-home.org/). Download the python github repository [HERE](https://github.com/xavierpuigf/virtualhome) and the original unity repository [HERE](https://github.com/xavierpuigf/virtualhome_unity).
+Our OCD dataset is developed based on the [VirtualHome simulation environment](http://virtual-home.org/). Download the python github repository [HERE](https://github.com/xavierpuigf/virtualhome) and the original unity repository [HERE](https://github.com/xavierpuigf/virtualhome_unity).
 
 (Skip this step) If one wants to build Unity Virtualhome environment from scratch,  replace the old ```virtualhome_unity/Assets/Story Generator/Scripts/TestDriver.cs``` in the original unity repository with ```unity/TestDriver.cs``` in the current repository. Re-export Unity executable files. 
 
@@ -142,13 +142,13 @@ jasondirname = 'jason_gravity'
 ```
 You can skip all the steps above, if you want to directly use the images from our dataset without any modifications.
 Download links for the dataset:
- - Normal: raw images[HERE](https://www.dropbox.com/sh/2he6a884v56tml3/AACS-74urq7lAuocE_5yHDTZa?dl=0)
- - Gravity raw images[HERE](https://www.dropbox.com/sh/3spivxx6c5hhn98/AADcUMhQBNGEmCOiZhLgp4JQa?dl=0)
- - Size raw images[HERE](https://www.dropbox.com/sh/5yv31zw7631peod/AABxyiltxs8XYwvBGEtGIbBHa?dl=0)
- - Co-occurrence raw images[HERE](https://www.dropbox.com/sh/mza2njlqtc1ttqv/AABT-Ju9tSkCI0zLIPQOwffca?dl=0)
+ - Normal: raw images [HERE](https://www.dropbox.com/sh/2he6a884v56tml3/AACS-74urq7lAuocE_5yHDTZa?dl=0)
+ - Gravity raw images [HERE](https://www.dropbox.com/sh/3spivxx6c5hhn98/AADcUMhQBNGEmCOiZhLgp4JQa?dl=0)
+ - Size raw images [HERE](https://www.dropbox.com/sh/5yv31zw7631peod/AABxyiltxs8XYwvBGEtGIbBHa?dl=0)
+ - Co-occurrence raw images [HERE](https://www.dropbox.com/sh/mza2njlqtc1ttqv/AABT-Ju9tSkCI0zLIPQOwffca?dl=0)
  - G+C raw images (naming convention with _wall) [HERE](https://www.dropbox.com/sh/mza2njlqtc1ttqv/AABT-Ju9tSkCI0zLIPQOwffca?dl=0)
  - NoContext raw images (naming convention with _seg) [HERE](https://www.dropbox.com/sh/2he6a884v56tml3/AACS-74urq7lAuocE_5yHDTZa?dl=0)
- - Training images from VirtualHome raw images[HERE](https://www.dropbox.com/sh/dite90lv0s0kkr1/AAB9xz2oX1s7AqddxkUvdn-Ua?dl=0) and [HERE](https://www.dropbox.com/sh/0w8zu80erw61i5i/AABVkfe4FwZqRDeoGQqCCplYa?dl=0)
+ - Training images from VirtualHome raw images [HERE](https://www.dropbox.com/sh/dite90lv0s0kkr1/AAB9xz2oX1s7AqddxkUvdn-Ua?dl=0) and [HERE](https://www.dropbox.com/sh/0w8zu80erw61i5i/AABVkfe4FwZqRDeoGQqCCplYa?dl=0)
  - Jason files [HERE](https://www.dropbox.com/s/80dfiwfpgvn3x6a/jason_.zip?dl=0) For each image in the conditions above, there exists a corresponding jason file storing the target object classname, class-id, apartment-id, room-id, surface-id, the bounding box (left, right, bottom, top coordinate wrt (1024, 1280) image size). 
 
 **NOTE** NOT all images are used for testing. Within each condition, we manually filtered and selected the good quality images for human and model testing. The ```human/Mat/VHhumanStats_*.mat``` stores the SELECTED test images. The raw filtered image lists for each dataset is in ```human/filtered/```. For example, ```filtered_gravity```, ```filtered_gravity_ori```  and ```human/Mat/VHhumanStats_gravity.mat``` are the selected image information for gravity condition. 
@@ -156,7 +156,11 @@ Download links for the dataset:
 (not recommended) If one wants to filter images again, use scripts ```unity/filterImages_gravity.ipynb``` and ```human/ProcessFilteredTextFiles_gravity.m``` to re-generate ```human/Mat/VHhumanStats_gravity.mat```.
 
 ## Mturk Experiments
-We conduct Amazon Mechanical Turk experiments using the selected images from above in OCD datasets. For all mturk experiments, one can download [HERE](https://drive.google.com/drive/folders/1C6T4waXHlAyAxYqrvjfbssFSO4HtWJ2y?usp=sharing). We are now using ```human/expGravity``` as an example. 
+We conduct Amazon Mechanical Turk experiments using the selected images from above in the OCD datasets. The following gif illustrates how an individual trial looks. Additional examples for all context conditions can be found [HERE](https://drive.google.com/drive/folders/1Z3m-49JDN0qUm8IwfJGqK19mjuFvqwI8).
+
+![mturk_example](doc/mturk_example.gif)
+
+For all mturk experiments, one can download [HERE](https://drive.google.com/drive/folders/1C6T4waXHlAyAxYqrvjfbssFSO4HtWJ2y?usp=sharing). We are now using ```human/expGravity``` as an example. 
 
 We designed a series of Mturk experiments using [Psiturk](https://psiturk.org/) which requires javascripts, HTML and python 2.7. The source codes have been successfully tested on MAC OSX and Ubuntu 18.04. See sections below for installation, running the experiments locally and launching the experiments online.
 

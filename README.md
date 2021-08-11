@@ -158,7 +158,7 @@ Download links for the dataset:
 ## Mturk Experiments
 We conduct Amazon Mechanical Turk experiments using the selected images from above in the OCD datasets. The following gif illustrates how an individual trial looks. Additional examples for all context conditions can be found in the `human/mturk_examples` folder.
 
-![mturk_example](doc/mturk_example.gif)
+![mturk_example](human/mturk_examples/gif_1_1_1_3_gravity.gif)
 
 For all mturk experiments, one can download [HERE](https://drive.google.com/drive/folders/1C6T4waXHlAyAxYqrvjfbssFSO4HtWJ2y?usp=sharing). We are now using ```human/expGravity``` as an example. 
 

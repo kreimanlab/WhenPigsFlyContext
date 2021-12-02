@@ -108,6 +108,8 @@ MAC OSX version can be downloaded [HERE](https://drive.google.com/file/d/1Bp-R9O
 
 Copy all the files in ```unity``` folder in the current repository to ```virtualhome/demo/``` folder in the downloaded python github repository [HERE](https://github.com/xavierpuigf/virtualhome).
 
+replace ```virtualhome/simulation/unity_simulator/comm_unity.py``` in the downloaded python github above with our latest ```unity/comm_unity.py```.
+
 And then, go to ```cd virtualhome/demo/``` folder, launch any of the following Python scripts in the command window:
 ```
 #generate environment graphs (compulsory before running any of the following conditions)

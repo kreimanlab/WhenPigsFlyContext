@@ -89,6 +89,9 @@ One can download our pre-trained models:
  - model on UnRel dataset [HERE](https://drive.google.com/drive/folders/1nOVKcHzCi9xtYY4BvVHjo9fJTBxsXwrg?usp=sharing)
  - model on Cut-paste dataset [HERE](https://drive.google.com/drive/folders/18ggHf49jdCh-7qOCLe7mPnaSwhbNV69w?usp=sharing)
 
+#### annotation files for training and testing the models
+All annotation files for training our models in three datasets above can be found [HERE](https://drive.google.com/file/d/1De9x1fhSpQIagtiNCHayTuUmZtop34oR/view?usp=sharing)
+
 ## Datasets
 
 Download all the folders in ```human``` from [HERE](https://drive.google.com/drive/folders/1lm5Zt96-n6uzGbXyW6n0q2QzFghdGyjf?usp=sharing) and place them in ```human``` in the current repository.

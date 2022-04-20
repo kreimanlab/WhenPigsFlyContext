@@ -92,6 +92,8 @@ One can download our pre-trained models:
 #### annotation files for training and testing the models
 All annotation files for training our models in three datasets above can be found [HERE](https://drive.google.com/file/d/1De9x1fhSpQIagtiNCHayTuUmZtop34oR/view?usp=sharing)
 
+All annotation files for testing our models in three datasets above can be found [HERE](https://drive.google.com/drive/folders/1K1NyC5Dppk3JcAeL5MuAU9n_jmopIQRX?usp=sharing)
+
 ## Datasets
 
 Download all the folders in ```human``` from [HERE](https://drive.google.com/drive/folders/1lm5Zt96-n6uzGbXyW6n0q2QzFghdGyjf?usp=sharing) and place them in ```human``` in the current repository.

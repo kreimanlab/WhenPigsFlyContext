@@ -1,0 +1,13 @@
+name: detectron2
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pyyaml=5.1
+  - cudatoolkit=11.0
+  - torchvision
+  - pytorch
+  - opencv
+  - dataclasses
+  - pandas
+  - tqdm

@@ -1,0 +1,110 @@
+`bottleneck` is a tool that can be used as an initial step for debugging
+bottlenecks in your program.
+
+It summarizes runs of your script with the Python profiler and PyTorch's
+autograd profiler. Because your script will be profiled, please ensure that it
+exits in a finite amount of time.
+
+For more complicated uses of the profilers, please see
+https://docs.python.org/3/library/profile.html and
+https://pytorch.org/docs/master/autograd.html#profiler for more information.
+Running environment analysis...
+Running your script with cProfile
+Initializing model from torchvision.
+Running your script with the autograd profiler...
+Initializing model from torchvision.
+Initializing model from torchvision.
+--------------------------------------------------------------------------------
+  Environment Summary
+--------------------------------------------------------------------------------
+PyTorch 1.7.0 DEBUG compiled w/ CUDA 11.0
+Running with Python 3.8 and CUDA 10.1.243
+
+`pip3 list` truncated output:
+numpy==1.19.2
+torch==1.7.0
+torchvision==0.8.1
+--------------------------------------------------------------------------------
+  cProfile output
+--------------------------------------------------------------------------------
+         2947081 function calls (2922893 primitive calls) in 38.570 seconds
+
+   Ordered by: internal time
+   List reduced from 1983 to 15 due to restriction <15>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    7.827    7.827    7.827    7.827 /home/philipp/anaconda3/envs/detectron2/lib/python3.8/json/decoder.py:343(raw_decode)
+    27978    7.147    0.000    7.147    0.000 {method 'read' of '_io.BufferedReader' objects}
+     2014    6.457    0.003    6.457    0.003 {method 'decode' of 'ImagingDecoder' objects}
+      644    5.129    0.008    5.129    0.008 {built-in method io.open}
+       20    2.360    0.118    2.360    0.118 {method 'run_backward' of 'torch._C._EngineBase' objects}
+     1055    1.614    0.002    1.614    0.002 {method 'to' of 'torch._C._TensorBase' objects}
+     3360    1.358    0.000    1.358    0.000 {built-in method conv2d}
+      640    0.757    0.001    0.757    0.001 {method 'resize' of 'ImagingCore' objects}
+      641    0.749    0.001    0.749    0.001 {method 'close' of '_io.BufferedReader' objects}
+    20320    0.324    0.000    0.324    0.000 {method 'mul_' of 'torch._C._TensorBase' objects}
+    20320    0.313    0.000    0.313    0.000 {method 'add_' of 'torch._C._TensorBase' objects}
+       20    0.252    0.013    1.391    0.070 /home/philipp/anaconda3/envs/detectron2/lib/python3.8/site-packages/torch/optim/functional.py:53(adam)
+    70104    0.233    0.000    0.381    0.000 /home/philipp/anaconda3/envs/detectron2/lib/python3.8/site-packages/torch/tensor.py:933(grad)
+        1    0.230    0.230    0.424    0.424 {method 'read' of '_io.TextIOWrapper' objects}
+        1    0.194    0.194    0.194    0.194 {built-in method _codecs.utf_8_decode}
+
+
+--------------------------------------------------------------------------------
+  autograd profiler output (CPU mode)
+--------------------------------------------------------------------------------
+        top 15 events sorted by cpu_time_total
+
+------------------------------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  
+                                Name    Self CPU %      Self CPU   CPU total %     CPU total  CPU time avg     Self CUDA   Self CUDA %    CUDA total  CUDA time avg    # of Calls  
+------------------------------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  
+                      aten::addcdiv_        20.33%      93.685ms        20.33%      93.685ms      93.685ms       0.000us           NaN       0.000us       0.000us             1  
+                           aten::cat        10.72%      49.385ms        10.72%      49.385ms      49.385ms       0.000us           NaN       0.000us       0.000us             1  
+                          aten::_cat        10.71%      49.369ms        10.71%      49.369ms      49.369ms       0.000us           NaN       0.000us       0.000us             1  
+            CudnnConvolutionBackward        10.69%      49.287ms        10.69%      49.287ms      49.287ms       0.000us           NaN       0.000us       0.000us             1  
+    aten::cudnn_convolution_backward        10.69%      49.279ms        10.69%      49.279ms      49.279ms       0.000us           NaN       0.000us       0.000us             1  
+                        aten::stride        10.69%      49.255ms        10.69%      49.255ms      49.255ms       0.000us           NaN       0.000us       0.000us             1  
+            CudnnConvolutionBackward         5.54%      25.515ms         5.54%      25.515ms      25.515ms       0.000us           NaN       0.000us       0.000us             1  
+                      aten::randperm         2.96%      13.646ms         2.96%      13.646ms      13.646ms       0.000us           NaN       0.000us       0.000us             1  
+              CudnnBatchNormBackward         2.72%      12.530ms         2.72%      12.530ms      12.530ms       0.000us           NaN       0.000us       0.000us             1  
+     aten::cudnn_batch_norm_backward         2.72%      12.520ms         2.72%      12.520ms      12.520ms       0.000us           NaN       0.000us       0.000us             1  
+                           aten::cat         2.65%      12.209ms         2.65%      12.209ms      12.209ms       0.000us           NaN       0.000us       0.000us             1  
+                          aten::_cat         2.65%      12.191ms         2.65%      12.191ms      12.191ms       0.000us           NaN       0.000us       0.000us             1  
+                        aten::stride         2.62%      12.060ms         2.62%      12.060ms      12.060ms       0.000us           NaN       0.000us       0.000us             1  
+                      aten::randperm         2.50%      11.512ms         2.50%      11.512ms      11.512ms       0.000us           NaN       0.000us       0.000us             1  
+                      aten::uniform_         1.83%       8.439ms         1.83%       8.439ms       8.439ms       0.000us           NaN       0.000us       0.000us             1  
+------------------------------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  
+Self CPU time total: 460.880ms
+CUDA time total: 0.000us
+
+--------------------------------------------------------------------------------
+  autograd profiler output (CUDA mode)
+--------------------------------------------------------------------------------
+        top 15 events sorted by cpu_time_total
+
+	Because the autograd profiler uses the CUDA event API,
+	the CUDA time column reports approximately max(cuda_time, cpu_time).
+	Please ignore this output if your code does not use CUDA.
+
+------------------------------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  
+                                Name    Self CPU %      Self CPU   CPU total %     CPU total  CPU time avg     Self CUDA   Self CUDA %    CUDA total  CUDA time avg    # of Calls  
+------------------------------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  
+            CudnnConvolutionBackward        16.26%      47.723ms        16.26%      47.723ms      47.723ms      44.476ms        17.68%      44.476ms      44.476ms             1  
+    aten::cudnn_convolution_backward        16.26%      47.709ms        16.26%      47.709ms      47.709ms      44.468ms        17.68%      44.468ms      44.468ms             1  
+                           aten::cat        15.83%      46.468ms        15.83%      46.468ms      46.468ms      46.384ms        18.44%      46.384ms      46.384ms             1  
+            CudnnConvolutionBackward         8.34%      24.474ms         8.34%      24.474ms      24.474ms      24.244ms         9.64%      24.244ms      24.244ms             1  
+                      aten::addcdiv_         8.16%      23.937ms         8.16%      23.937ms      23.937ms      23.937ms         9.52%      23.937ms      23.937ms             1  
+                      aten::randperm         4.90%      14.381ms         4.90%      14.381ms      14.381ms      14.380ms         5.72%      14.380ms      14.380ms             1  
+                      aten::randperm         4.22%      12.389ms         4.22%      12.389ms      12.389ms      12.390ms         4.93%      12.390ms      12.390ms             1  
+              CudnnBatchNormBackward         3.70%      10.871ms         3.70%      10.871ms      10.871ms     319.000us         0.13%     319.000us     319.000us             1  
+     aten::cudnn_batch_norm_backward         3.70%      10.853ms         3.70%      10.853ms      10.853ms     313.000us         0.12%     313.000us     313.000us             1  
+                           aten::cat         3.69%      10.824ms         3.69%      10.824ms      10.824ms      10.818ms         4.30%      10.818ms      10.818ms             1  
+                          aten::_cat         3.68%      10.798ms         3.68%      10.798ms      10.798ms      10.811ms         4.30%      10.811ms      10.811ms             1  
+                        aten::stride         3.63%      10.646ms         3.63%      10.646ms      10.646ms       0.000us         0.00%       0.000us       0.000us             1  
+                     NllLossBackward         3.32%       9.741ms         3.32%       9.741ms       9.741ms       9.733ms         3.87%       9.733ms       9.733ms             1  
+                      aten::uniform_         2.26%       6.635ms         2.26%       6.635ms       6.635ms       6.634ms         2.64%       6.634ms       6.634ms             1  
+            CudnnConvolutionBackward         2.06%       6.031ms         2.06%       6.031ms       6.031ms       2.606ms         1.04%       2.606ms       2.606ms             1  
+------------------------------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  
+Self CPU time total: 293.483ms
+CUDA time total: 251.513ms
+
